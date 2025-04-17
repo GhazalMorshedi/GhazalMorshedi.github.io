@@ -4,19 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a researcher in prehistoric archaeology with a focus on Neolithic and Chalcolithic material cultures of the Middle East. My work centers on the intersection of archaeology and artificial intelligence, particularly in the digital analysis and classification of ceramic motifs. With hands-on excavation experience and a strong interest in ceramology, I aim to develop data-driven approaches that enhance the study of ancient pottery. I am currently conducting an research project that applies machine learning to the typological analysis of ceramics from Tepe Cheshmeh Ali, working in collaboration with experts in computer science and physics. My broader goal is to contribute to the integration of computational methods in archaeological research and heritage studies.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
