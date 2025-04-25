@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image](profile.jpg)
 
-<p>I am a researcher in prehistoric archaeology with a focus on Neolithic and Chalcolithic material cultures of the Middle East. My work centers on the intersection of archaeology and artificial intelligence, particularly in the digital analysis and classification of ceramic motifs. With hands-on excavation experience and a strong interest in ceramology, I aim to develop data-driven approaches that enhance the study of ancient pottery. I am currently conducting an research project that applies machine learning to the typological analysis of ceramics from Tepe Cheshmeh Ali, working in collaboration with experts in computer science and physics. My broader goal is to contribute to the integration of computational methods in archaeological research and heritage studies.</p>
+<p>I am a researcher in prehistoric archaeology with a focus on Neolithic and Chalcolithic material cultures of the Middle East. My work centers on the intersection of archaeology and artificial intelligence, particularly in the digital analysis and typology of ceramic motifs. With hands-on excavation experience and a strong interest in ceramology, I aim to develop data-driven approaches that enhance the study of ancient pottery. I am currently conducting an research project that applies machine learning to the typological analysis of ceramics from Tepe Cheshmeh Ali, working in collaboration with experts in computer science. My broader goal is to contribute to the integration of computational methods in archaeological research and heritage studies.</p>
 
 
 <h2>Skills</h2>
@@ -17,10 +17,9 @@ layout: page
 	
 </ul>
 
-<h2>Projects</h2>
+<h2>Field Experience</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="Field Experience-list">
+	<li>Cheshmeh Ali, Rey - Director of T. T. I / Supervisor of Tr. I Oct 2024 – Nov 2024</li>
+	<li>Qal’e Bala, Bijar - Team member of Tr. II Sep 2023 – Nov 2023</li>
 </ul>
