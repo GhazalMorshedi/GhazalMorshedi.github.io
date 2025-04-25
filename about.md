@@ -10,10 +10,9 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Python</li>
-	<li>GIS</li>
-	<li>AutoCAD</li>
-	<li>Adobe Photoshop</li>
+	<li>Excavation, Stratigraphic Documentation, Trench Supervision, Excavation Reporting</li>
+	<li>Python, GIS, AutoCAD, Adobe Photoshop, LATEX, Microsoft Office</li>
+
 	
 </ul>
 
