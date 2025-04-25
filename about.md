@@ -10,7 +10,8 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Excavation, Stratigraphic Documentation, Trench Supervision, Excavation Reporting</li>
+	<li>Excavation, Stratigraphic Documentation</li>
+	<li>Trench Supervision, Excavation Reporting</li>
 	<li>Python, GIS, AutoCAD, Adobe Photoshop, LATEX, Microsoft Office</li>
 
 	
@@ -19,6 +20,6 @@ layout: page
 <h2>Field Experience</h2>
 
 <ul class="Field Experience-list">
-	<li>Cheshmeh Ali, Rey - Director of T. T. I / Supervisor of Tr. I - Oct 2024 : Nov 2024</li>
-	<li>Qal’e Bala, Bijar - Team member of Tr. II - Sep 2023 : Nov 2023</li>
+	<li>Cheshmeh Ali, Rey - Director of T. T. I / Supervisor of Tr. I (Oct 2024 : Nov 2024)</li>
+	<li>Qal’e Bala, Bijar - Team member of Tr. II (Sep 2023 : Nov 2023)</li>
 </ul>
